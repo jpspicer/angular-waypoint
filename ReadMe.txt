@@ -9,4 +9,5 @@ usage:
 
 for more info on using waypoints see http://imakewebthings.com/waypoints/guides/getting-started/
 
-for a live example see http://justinspicer.com/waypoint-example/
+check it out in plunker http://plnkr.co/edit/j9SsFvaeQVGipmYpBCdM?p=preview
+
