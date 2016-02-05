@@ -15,14 +15,14 @@ angular.module('waypoints', [])
  
     return {
         scope: {
-            callback: '&',
+            handler: '&',
             offset: '@'
         },
         link: function(scope, elem, attrs) {
             var createWaypoint = function() {
                 var waypoint = new Waypoint({
                     element: elem[0],
-                    handler: scope.callback(),
+                    handler: scope.handler(),
                     offset: scope.offset
                 });
             }
