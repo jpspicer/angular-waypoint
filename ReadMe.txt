@@ -9,10 +9,5 @@ usage:
 
 for more info on using waypoints see http://imakewebthings.com/waypoints/guides/getting-started/
 
-<<<<<<< HEAD
-
-check it out in plunker http://plnkr.co/edit/j9SsFvaeQVGipmYpBCdM?p=preview
-=======
 check it out in plunker http://plnkr.co/edit/j9SsFvaeQVGipmYpBCdM?p=preview
 
->>>>>>> origin/master
